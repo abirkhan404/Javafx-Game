@@ -132,6 +132,7 @@ public class Main extends Application{
     private static class Sprite extends Rectangle {
         boolean dead = false;
         final String type;
+        ok change 404
 
         Sprite(int x, int y, int w, int h, String type, Color color) {
             super(w, h, color);
